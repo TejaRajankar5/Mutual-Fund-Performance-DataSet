@@ -18,6 +18,8 @@ The project is ideal for:
 
 ## 1️⃣ Mutual Fund Performance Overview
 
+<img width="1655" height="854" alt="Mutual Fund Performance Overview" src="https://github.com/user-attachments/assets/f2701302-0ce9-4f02-b698-113cf8387000" />
+
 This dashboard gives a **high-level summary of the mutual fund ecosystem**.
 
 ### 🔹 Investment Type Distribution (Pie Chart)
@@ -61,6 +63,8 @@ This dashboard gives a **high-level summary of the mutual fund ecosystem**.
 ---
 
 ## 2️⃣ Returns & Risk Analysis
+
+<img width="1658" height="858" alt="Returns   Risk Analysis" src="https://github.com/user-attachments/assets/536cdc54-9d63-43ac-b5bb-977cd010e9e1" />
 
 This dashboard focuses on **performance trends and risk evaluation**.
 
