@@ -1,5 +1,6 @@
 # 📈 Mutual Fund Performance & Risk Analysis Dashboard
 
+![project image](mutual funds.png)
 ## 📌 Project Overview
 
 This project provides a **comprehensive analysis of mutual fund performance** across different **fund houses, investment types, categories, risk levels, and time periods**.
